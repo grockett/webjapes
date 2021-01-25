@@ -1,7 +1,6 @@
----
-layout: post
-title: Blogging Like a Hacker
----
+layout: page
+title: "PAGE TITLE"
+permalink: /URL-PATH/
 
 ## Welcome to GitHub Pages
 
